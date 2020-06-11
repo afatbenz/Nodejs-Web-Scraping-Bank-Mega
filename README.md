@@ -5,9 +5,9 @@ Save result to result.json
 
 <h1>Tools</h1>
 <ul>
-  <li>1. Cheerio</li>
-  <li>2. Bluebird</li>
-  <li>3. Request-Promise</li>
+  <li>1. Cheerio <pre>npm i cheerio</pre></li>
+  <li>2. Bluebird <pre>npm i bluebird</pre></li>
+  <li>3. Request-Promise <pre>npm i request-promise</pre></li>
  </ul>
 
 <h1>Step by Step</h1>
