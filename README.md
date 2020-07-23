@@ -1,7 +1,7 @@
 # Scraping Promotions of Bank Mega Website
-Website : https://www.bankmega.com/promolainnya.php
-Detail : https://www.bankmega.com/promo_detail.php?id=501
-Save result to result.json
+Website : https://www.bankmega.com/promolainnya.php <br>
+Detail Promo : https://www.bankmega.com/promo_detail.php?id=501 <br>
+Save result to result.json<br>
 
 <h1>Tools</h1>
 <ul>
